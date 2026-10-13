@@ -30,4 +30,4 @@ s.marks = float(input("Enter the marks :"))
 
 print(f"Roll Number : {s.rollno}")
 print(f"Name : {s.name}")
-print(f"Marks : {s.marks:.6f}")
+print(f"Marks : {s.marks}")
